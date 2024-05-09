@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="AndroidBlobs/vendor_samsung_a10e" path="vendor/samsung/a10e" remote="github" revision="master" />
+  <project name="topser9/kernel_samsung_universal7885" path="kernel/samsung/universal7885" remote="github" revision="master" />
+  <project name="AndroidBlobs/device_samsung_a10e" path="device/samsung/a10e" remote="github" revision="master" />
+</manifest>
